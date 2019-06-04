@@ -1,0 +1,6 @@
+/config
+!/config/.gitkeep
+/data
+!/data/.gitkeep
+/logs
+!/logs/.gitkeep
